@@ -1,4 +1,4 @@
 # EunChongJu
-about to JavaScript
+about to JavaScript for algorithm
 
-Algorithm for JavaScript
+Solution for Question Algorithm with JavaScript
