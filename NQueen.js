@@ -16,6 +16,9 @@ function main() {
 }
 
 function queens(i) {
+}
+
+function queens(i) {
 	if (promising(i)) {
 		if (i == n) {
 			printResult();
